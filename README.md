@@ -1,6 +1,8 @@
 
 # Artificial Intelligence for Trading Nanodegree
 
+Testing
+
 ## Alpha Research and Factor Modelling
 
 ## Project: Multi-Factor Model
